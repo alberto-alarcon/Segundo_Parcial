@@ -1,0 +1,5 @@
+com\emergentes\modelo\seminarios.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\modelo\participantes.class
+com\emergentes\controlador2\MainController2.class
+com\emergentes\controlador\MainController.class
